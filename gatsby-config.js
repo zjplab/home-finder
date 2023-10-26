@@ -10,7 +10,7 @@ module.exports = {
         summary: 'Find homes for you',
         defaultLanguage,
         description: 'Home Finder',
-        siteUrl: 'https://werules.github.io/home-finder/',
+        siteUrl: 'https://zjplab.github.io/home-finder/',
         social: {
             twitter: 'thepiratepablo',
         },
